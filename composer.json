@@ -1,6 +1,6 @@
 {
     "autoload": {
-        "files": ["functions.php"]
+        "files": ["dist/functions.php"]
     },
     "require": {
         "illuminate/support": "^8.39",
