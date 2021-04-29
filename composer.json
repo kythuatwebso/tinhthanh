@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "files": ["functions.php"]
+    },
+    "require": {
+        "illuminate/support": "^8.39",
+        "symfony/var-dumper": "^5.2",
+        "joshcam/mysqli-database-class": "^2.9"
+    }
+}
