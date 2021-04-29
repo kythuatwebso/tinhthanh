@@ -1,4 +1,4 @@
-# CODE này giúp bạn lấy dữ liệu tỉnh thành Việt Nam về CSDL để hỗ trợ công việc
+### CODE này giúp bạn lấy dữ liệu tỉnh thành Việt Nam về CSDL để hỗ trợ công việc
 
 1. Đầu tiên tạo 3 table gồm:
   - tbl_province  (dữ liệu tỉnh thành)
